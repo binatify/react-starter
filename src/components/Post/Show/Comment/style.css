@@ -1,0 +1,55 @@
+.PostShow_Comment {
+  background-color: #fafafa!important;
+  padding-bottom: 40px;
+}
+
+.Comment-Form {
+  text-align: left;
+  width: 600px;
+  margin: 40px auto 0px;
+  padding-top: 30px;
+}
+
+.Comment-Form p {
+  font-size: 16px;
+  color: rgba(0,0,0,.68);
+  margin-bottom: 10px;
+}
+
+.CommentList {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.CommentItem {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  margin-top: 20px;
+  text-align: left;
+  padding: 10px;
+}
+
+.CommentItem p {
+  margin-bottom: 0px;
+  font-size: 14px;
+}
+
+.CommentItem pre {
+  background: #fff;
+  border: none;
+  font-size: 15px;
+  padding: 0px;
+}
+
+.CommentItem_Header {
+  margin-bottom: 8px;
+}
+
+.CommentItem__user {
+  color: #1C9963 !important;
+  font-size: 18px !important;
+}
+
+.CommentItem__timer {
+  font-size: 13px !important;;
+}
